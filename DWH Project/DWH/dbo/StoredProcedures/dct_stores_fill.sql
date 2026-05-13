@@ -1,6 +1,6 @@
 CREATE PROCEDURE [dbo].[dct_stores_fill]  
 AS  
-declare @rowcount int = 1  
+declare @rowcount int = 2  
 declare @name varchar(max) = 'dbo.dct_Stores_fill'  
 declare @result int  
   
