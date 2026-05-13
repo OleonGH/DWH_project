@@ -1,0 +1,5 @@
+CREATE USER [datahub] WITHOUT LOGIN;
+
+
+GO
+
