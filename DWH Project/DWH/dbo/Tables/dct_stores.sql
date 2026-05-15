@@ -98,7 +98,9 @@ CREATE TABLE [dbo].[dct_stores] (
     [is_olap]                BIT           NULL,
     [board_id]               INT           NULL,
     [board_name]             VARCHAR (255) NULL,
-    [cash_register_cnt]      INT           NULL
+    [cash_register_cnt]      INT           NULL,
+    [country] varchar(100),
+    [city] varchar(100)
 );
 
 
