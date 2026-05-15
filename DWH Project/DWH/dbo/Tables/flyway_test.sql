@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[flyway_test] (
-    [Id]   INT           NULL,
+    [Id]   int           NULL,
     [name] VARCHAR (255) NULL
 );
 
